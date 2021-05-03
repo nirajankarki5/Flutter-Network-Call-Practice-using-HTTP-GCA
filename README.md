@@ -10,7 +10,8 @@
 ![](images/home.png)
 ![](images/details.png)
 
-<img src="images/home.png" width="200">
+<img src="images/home.png" width="500">
+<img src="images/details.png" width="500">
 
 ## Getting Started
 
