@@ -7,8 +7,8 @@
 - http: ^0.13.2
 
 ## Screenshots
-![](images/home.png)
-![](images/details.png)
+![](images/home.png){ width=50% }
+![](images/details.png){ width=50% }
 
 ## Getting Started
 
