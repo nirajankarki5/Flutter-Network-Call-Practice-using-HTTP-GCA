@@ -7,8 +7,8 @@
 - http: ^0.13.2
 
 ## Screenshots
-<img src="images/home.png" width="500">
-<img src="images/details.png" width="500">
+<img src="images/home.png" width="500"> <img src="images/details.png" width="500">
+
 
 ## Getting Started
 
