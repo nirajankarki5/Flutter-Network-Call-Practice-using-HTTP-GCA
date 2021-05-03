@@ -8,7 +8,7 @@
 
 ## Screenshots
 ![](images/home.png){ width=50% }
-![](images/details.png){ width=50% }
+![](images/details.png = 200x100)
 
 ## Getting Started
 
