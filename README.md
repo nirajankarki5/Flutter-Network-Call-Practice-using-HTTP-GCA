@@ -7,8 +7,10 @@
 - http: ^0.13.2
 
 ## Screenshots
-![](images/home.png){ width=50% }
-![](images/details.png = 200x100)
+![](images/home.png)
+![](images/details.png)
+
+<img src="images/home.png" width="200">
 
 ## Getting Started
 
