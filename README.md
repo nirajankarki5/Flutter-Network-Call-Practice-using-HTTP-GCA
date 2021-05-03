@@ -7,9 +7,6 @@
 - http: ^0.13.2
 
 ## Screenshots
-![](images/home.png)
-![](images/details.png)
-
 <img src="images/home.png" width="500">
 <img src="images/details.png" width="500">
 
