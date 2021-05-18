@@ -49,8 +49,11 @@ class _HomePageState extends State<HomePage> {
         userId: eachElement['userId'],
         id: eachElement['id'],
       );
+      //_card() consists of individual container widget that takes model
+      //templist.add will add card in each iteration
       tempList.add(_card(model));
     }
+    //templist contains all the number of cards and is assigned to _listItems which is a list of widgets
     _listItems = tempList;
     setState(() {});
   }
@@ -90,6 +93,7 @@ class _HomePageState extends State<HomePage> {
       height: MediaQuery.of(context).size.height * 0.85,
       child: ListView(
         //shrinkWrap: true,
+        //ListView has list of widgets in children
         children: _listItems,
       ),
     );
